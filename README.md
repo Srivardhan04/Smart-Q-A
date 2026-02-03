@@ -100,13 +100,3 @@ Note: The last command may prompt for credentials or require a configured PAT/SS
 ## Contributing
 
 Contributions welcome — open an issue or PR with a clear description of the change.
-
----
-
-## License
-
-This project is provided "as-is". Add your preferred license (e.g. MIT) in `LICENSE` if you wish.
-
----
-
-If you'd like, I can also add a `start` script and automate the steps for creating and pushing the initial commit. Would you like me to run the Git commands now? 📤

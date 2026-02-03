@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Env
+venv/
+.env
+
+# Mac / Windows
+.DS_Store
+Thumbs.db
+
+# Vector store and uploads
+vector_store/
+uploaded_docs/
+
+# FAISS index files
+*.faiss
+index.pkl
+
+# Logs
+log.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build / dist
+build/
+dist/
+*.egg-info/
