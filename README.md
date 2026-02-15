@@ -1,4 +1,4 @@
-# Smart Q&A-using Rag
+# Smart Q&A-using Rag System
 
 A production-ready Retrieval-Augmented Generation (RAG) application that enables natural language question answering over PDF documents. The system processes uploaded PDFs, generates vector embeddings using FAISS, and leverages a sophisticated retrieval and large language model pipeline to provide accurate, context-aware answers based on the document corpus.
 
