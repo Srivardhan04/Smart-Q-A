@@ -1,1 +1,2 @@
 [2026-03-10T08:46:27.701Z] add rate limiting to public endpoints
+[2026-03-11T13:34:25.892Z] fix incorrect status code for validation errors
