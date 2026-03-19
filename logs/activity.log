@@ -4,3 +4,4 @@
 [2026-03-17T10:21:29.956Z] enforce single quotes across codebase
 [2026-03-18T13:21:58.417Z] simplify state management in scheduler
 [2026-03-18T15:50:01.561Z] add troubleshooting section to docs
+[2026-03-19T07:10:32.338Z] batch database writes for better throughput
