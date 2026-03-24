@@ -1,1 +1,2 @@
 [2026-03-23T13:54:40.935Z] implement input sanitization middleware
+[2026-03-24T08:57:45.656Z] handle missing env variable gracefully
