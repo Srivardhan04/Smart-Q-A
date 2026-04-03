@@ -4,3 +4,4 @@
 [2026-04-01T05:49:33.986Z] add Prometheus metrics endpoint
 [2026-04-02T07:44:25.568Z] fix CSS overflow issue on mobile viewport
 [2026-04-03T11:05:11.563Z] implement input sanitization middleware
+[2026-04-03T12:42:44.154Z] add export functionality for reports
