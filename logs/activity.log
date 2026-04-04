@@ -7,3 +7,4 @@
 [2026-04-03T12:42:44.154Z] add export functionality for reports
 [2026-04-04T04:56:03.213Z] merge upstream changes into feature branch
 [2026-04-04T09:41:37.530Z] add search with debounced input
+[2026-04-04T15:59:55.616Z] simplify state management in scheduler
