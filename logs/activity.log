@@ -1,2 +1,3 @@
 [2026-04-20T09:49:06.734Z] refactor error handling to use custom error classes
 [2026-04-21T13:39:03.964Z] split monolithic handler into services
+[2026-04-22T09:05:47.667Z] add regression test for pagination bug
