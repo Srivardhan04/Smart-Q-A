@@ -5,3 +5,4 @@
 [2026-04-24T08:49:59.049Z] audit and fix npm security vulnerabilities
 [2026-04-25T07:30:48.372Z] update seed data for local development
 [2026-04-25T15:09:21.415Z] fix edge case when input array is empty
+[2026-04-26T12:27:48.608Z] refactor config loading to support multiple envs
