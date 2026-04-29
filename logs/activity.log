@@ -3,3 +3,4 @@
 [2026-04-28T11:47:52.197Z] merge upstream changes into feature branch
 [2026-04-29T06:06:32.970Z] update license headers for new year
 [2026-04-29T19:45:36.555Z] pin dependency versions for reproducible builds
+[2026-04-29T20:14:47.102Z] audit and fix npm security vulnerabilities
