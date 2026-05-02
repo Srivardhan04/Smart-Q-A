@@ -6,3 +6,4 @@
 [2026-04-29T20:14:47.102Z] audit and fix npm security vulnerabilities
 [2026-05-01T06:25:51.215Z] refactor error handling to use custom error classes
 [2026-05-01T15:30:31.680Z] add configurable request timeout
+[2026-05-02T03:45:59.278Z] reorganize file structure for better discoverability
