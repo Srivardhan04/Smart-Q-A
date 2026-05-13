@@ -1,3 +1,4 @@
 [2026-05-11T13:49:27.384Z] simplify state management in scheduler
 [2026-05-12T07:50:29.475Z] clean up unused environment variables
 [2026-05-13T07:26:36.219Z] add lint check to pre-commit hook
+[2026-05-13T15:35:57.204Z] update README with setup instructions
