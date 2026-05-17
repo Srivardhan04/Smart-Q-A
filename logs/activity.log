@@ -9,3 +9,4 @@
 [2026-05-14T11:57:15.998Z] mock external service calls in test suite
 [2026-05-15T06:24:04.796Z] configure auto-deploy for staging branch
 [2026-05-16T04:08:06.817Z] add integration tests for API endpoints
+[2026-05-17T12:15:54.369Z] fix incorrect timestamp parsing for UTC dates
